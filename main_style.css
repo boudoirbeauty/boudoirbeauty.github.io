@@ -2,7 +2,7 @@
  ul, ol, li, h1, h2, h3, h4, h5, h6, pre, form, body, html, p, blockquote, fieldset, input { margin: 0; padding: 0; }
  a img { border: 0; }
  a { text-decoration: none; }
- body { position: relative; width: 100%; background: #C8AE79; color: #666666; font-family: 'Lato', sans-serif; font-size: 16px; font-weight: normal; line-height: 1.8em; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; }
+ body { position: relative; width: 100%; background: #000; color: #666666; font-family: 'Lato', sans-serif; font-size: 16px; font-weight: normal; line-height: 1.8em; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; }
  a { color: #C8AE79; -webkit-transition: color 200ms ease-in; -moz-transition: color 200ms ease-in; -ms-transition: color 200ms ease-in; -o-transition: color 200ms ease-in; transition: color 200ms ease-in; }
  a:hover, .wsite-com-link:hover .wsite-com-link-text { color: #C8AE79; }
  h2 { padding-bottom: 10px; color: #333333; font-family: 'Lato', sans-serif; font-size: 24px; font-weight: 300; line-height: 1.3em; }
